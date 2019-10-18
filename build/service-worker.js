@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/conFusion-publish/precache-manifest.d9417f7269e4878b2701cc0e8cb56e29.js"
+  "/conFusion-publish/precache-manifest.7a4e2e96706ca685844b03b1f0ff0287.js"
 );
 
 self.addEventListener('message', (event) => {
